@@ -1,7 +1,4 @@
-console.log("Hello World");
+require("./add.js");
 
-function hello(){
-    console.log("Hello Aryan Sharma");
-}
 
-hello();
+console.log("HEY My Name is Aryan Sharma");
